@@ -1,3 +1,4 @@
+-- language=SQL
 /* Modelagem Básica  */
 
 /*
